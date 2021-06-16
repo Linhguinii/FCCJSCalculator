@@ -1,0 +1,82 @@
+.main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+#calculator{
+  display: flex; 
+  flex-wrap: wrap;
+  width: 90px;
+}
+#display{
+ border: solid;
+}
+#zero{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#one{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#two{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#three{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#four{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#five{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#six{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#seven{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#eight{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#nine{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#equals{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#add{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#subtract{
+  border: 1px solid;
+  padding: 5px 7px 5px 7px;
+}
+#multiply{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#divide{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#decimal{
+  border: 1px solid;
+  padding: 5px 5px 5px 5px;
+}
+#clear{
+  border: 1px solid;
+  padding: 5px 10px 5px 10px;
+}
